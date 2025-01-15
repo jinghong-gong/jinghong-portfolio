@@ -21,6 +21,13 @@ Hi!  This is Jinghong Gong (He/Him). I am a first year Master of Entertainment I
 
 # Portfolio
 
+## Controlling Color - Week One (Discussion/Workbook)
+
+## Assignment: Data visualization critique #1
+
+## Assignment 3&4: Critique by Design 
+
+
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
