@@ -27,6 +27,8 @@ Hi!  This is Jinghong Gong (He/Him). I am a first year Master of Entertainment I
 
 ## Assignment 3&4: Critique by Design 
 
+## Final Project
+
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
