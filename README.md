@@ -11,20 +11,13 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  This is Jinghong Gong (He/Him). I am a first year Master of Entertainment Industry Management student at Carnegie Mellon University. My background is in music composition and technology. I've been producing and writing my own songs and also scored for a few short films. I also have a strong interest in project management and I wish to find my footings in the entertainment industry soon!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Effective data visualization
+3. Good visual design principles
+4. be able to tell great stories with data
 
 # Portfolio
 
